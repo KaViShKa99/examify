@@ -1,0 +1,13 @@
+.question-body{
+    background-color: rgb(143, 215, 110);
+    height: 30rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.question-box{
+    background-color: rgb(240, 233, 247);
+    text-align: center;
+    width: 60rem;
+    height: 12rem;
+}
