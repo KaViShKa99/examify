@@ -1,1 +1,1 @@
-# Examify
+# Exam-ify
