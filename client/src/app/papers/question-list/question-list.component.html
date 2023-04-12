@@ -1,1 +1,3 @@
 <p>question-list works!</p>
+<!-- <button>add question</button> -->
+<app-question *ngFor="let q of question; let isLast  = last" [q]="q"  [isLast]="isLast" [question]="question"></app-question>
